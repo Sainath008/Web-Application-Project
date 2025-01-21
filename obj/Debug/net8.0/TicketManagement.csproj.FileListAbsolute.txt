@@ -1,0 +1,14 @@
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\bin\Debug\net8.0\TicketManagement.deps.json
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\bin\Debug\net8.0\TicketManagement.runtimeconfig.json
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\bin\Debug\net8.0\TicketManagement.dll
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\bin\Debug\net8.0\TicketManagement.pdb
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.csproj.AssemblyReference.cache
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.AssemblyInfoInputs.cache
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.AssemblyInfo.cs
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.csproj.CoreCompileInputs.cache
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.dll
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\refint\TicketManagement.dll
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.pdb
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\TicketManagement.genruntimeconfig.cache
+C:\Users\sainath\source\repos\TicketManagement\TicketManagement\obj\Debug\net8.0\ref\TicketManagement.dll
